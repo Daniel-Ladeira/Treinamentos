@@ -47,7 +47,7 @@ I currently have a foundational knowledge of Python, and my next goal is to dive
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="140" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Ladeira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
